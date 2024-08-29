@@ -106,8 +106,7 @@ function App() {
                              alt=""/>
                         <p className={'description'}>In esso la coscienza è <strong>Prajna</strong>, uno stato
                             caratterizzato dall'assenza di dualità e dall'indistinta beatitudine.
-                            L'individuo non è consapevole né del mondo esterno né di immagini mentali; la coscienza è in
-                            uno stato di unità e riposo totale, senza alcuna distinzione tra soggetto e oggetto.
+                            La coscienza è in uno stato di unità e riposo totale, senza alcuna distinzione tra soggetto e oggetto.
 
                             <br/>Anche in questo stato, <strong>Turiya</strong> è presente come sostrato/testimone,
                             sebbene non vi sia dualità soggetto-oggetto.</p>
