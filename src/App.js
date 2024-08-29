@@ -72,7 +72,7 @@ function App() {
                 <p>Scoprirai che ciò che crediamo essere la realtà non è che una proiezione della mente (<i>Maya</i>), e
                     che il vero Sé, libero da ogni illusione, è sempre presente, oltre ogni esperienza e dualità.</p>
 
-
+                <hr className="elegant-hr" />
                 <h2 className={'title'}>Mandukya Upanisad (testo)</h2>
 
                 <p>1. La sillaba Om è tutto l'universo. Eccone la spiegazione. Il passato, il presente, il futuro: tutto
@@ -126,7 +126,7 @@ function App() {
 
                 <p>12. Il quarto [stato] non corrisponde a un [singolo] elemento, è inavvicinabile, in esso il mondo
                     visibile si risolve, è benevolenza, è assolutamente non duale.</p>
-
+                <hr className="elegant-hr" />
 
                 <div className="graphic">
                     <h2 className={'title'}>Rappresentazione grafica</h2>
