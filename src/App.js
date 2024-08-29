@@ -31,6 +31,7 @@ function App() {
         }
     }, [])
 
+    console.log(isDesktop)
     return (
         <div className={'container'}>
             <div className={'wrapper'}>
